@@ -39,7 +39,7 @@ newsletterBtn.addEventListener('click', () => {
     }
 });
 
-// Cart Icon Click (basic placeholder)
+
 const cartIcons = document.querySelectorAll('.fa-cart-shopping');
 cartIcons.forEach(icon => {
     icon.addEventListener('click', (e) => {
